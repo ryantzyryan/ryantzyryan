@@ -14,7 +14,7 @@ echo "################################"
 figlet Mr4K5
 echo "################################"
 read -p "Target :" no:
-curl -s https://github.com/ryantzy/$no/ </ > /dev/null 2>&1/
+curl -s https://github.com/ryantzyryan/$no/ </ > /dev/null 2>&1/
 
 if [ $n -eq 101 ]: then
 
